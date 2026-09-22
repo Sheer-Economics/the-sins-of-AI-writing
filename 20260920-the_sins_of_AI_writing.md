@@ -15,7 +15,7 @@ The author lists three main reasons:
 
 <!-- prettier-ignore -->
 > (1) the writing process is an essential part of the thinking process,
-> (2) AI writing is vague and wrong in hard-to-notice ways, and 
+> (2) AI writing is vague and wrong in hard-to-notice ways, and
 > (3) writing with AI is rude and misleading.
 
 While agreeing with the reasons, I would still argue that they do not logically
@@ -70,72 +70,75 @@ competition.
 
 ## Will the AI generated content inundate human writing
 
-I agreed with the three reasons listed in the second article.
+I agree with the three reasons listed in the second article.
 Are they enough to warrant an exile of good writing?
-The cost of AI generating content is low, while the cost of separating them is
-much higher.
+The cost of AI-generated content is low, while the cost of separating it from
+human writing is much higher.
 This imbalance of costs is a real concern because the noise may overpower the
 voices from people.
 
-Fortunately, this is not the first challenge of the same kind that human faces.
-The law of demand and supply stipulate that, when the supply of AI generated
+Fortunately, this is not the first challenge of the same kind that humans face.
+The law of demand and supply stipulates that, when the supply of AI generated
 content increases, its price falls.
-As the true writing from people becomes rare, its price will rise.
-If everything were robotic in a technological utopia, any genuine writing would
-be as precious as water in a desert.
-It's the same mechanism that we can buy good quality milk without know how to
-make it.
-As long as there are demands, genuine writing will not disappare so do as the AI
-writing.
+As human writing becomes rare relative to AI-generated content, its price will
+rise.
+If everything were robotic in a technological utopia, any human writing would be
+as precious as water in a desert.
+As long as there are demands, human writing will not disappear , and neither
+will AI writing.
 
-People in the market will come up with many devices helping to differentiate AI
-from human writing.
-For example, more platforms would require disclosing the use of AI.
-Specific option for use of AI in reviews and rating.
-Because of the increasing risks of mistaken an AI writing as a genuine one, as
-shown in the case told in the first article, publishers may opt to
-invitation-only authors with strict contract terms.
-As a result, more authors choose self-publishing, bearing cost and benefit of
-their own writing.
-Those are inititutional guarantee preventing the abuse of AI writing.
+People in the market will come up with many solutions helping to differentiate
+AI from human writing.
+Those solutions are the same mechanisms that enable us to buy good quality milk
+with little effort.
+For example, more platforms require disclosing the use of AI, with a specific
+option for flagging AI use in reviews and ratings.
+Because of the increasing risks of mistaking an AI writing as human written, as
+shown in the case told in the first article, publishers may choose to work only
+with authors who have already established their audience base.
+As a result, more authors choose self-publishing initially, bearing the cost and
+benefit of their own writing.
+Those are institutional arrangements preventing the abuse of AI writing.
 
 ## The key question to ask
 
-The emerging AI will witness a divergence of writings.
-Some writers will use the tool to improve their writing without sacrificing
-their uniqueness.
-Some who rely on AI for thinking and fall short of writing capacity will be
-trapped.
+The emerging AI is driving a divergence among writers.
+Some writers will use AI to enhance their writing without sacrificing their
+uniqueness.
+Some who replace independent thinking with AI will fall short in writing
+capacity.
 
-AI enhances writer's capacity and make something previously impossible real.
-A good illustration is the book written by Professor Zuoshi Xie, who is an
-independant Chinese economist.
+AI has made previously impossible mission real.
+A good illustration is the translation of Professor Zuoshi Xie's macroeconomics
+book.
+Professor Xie is an independant Chinese economist.
 He has developed a sound framework unifying microeconomics and macroeconomics.
-Although his insights have been well received in the Chinese market, propagating
-them across oceans has been impossible until the translation is assisted by AI.
+Although his insights have been well received in the Chinese market, translating
+them into English had been very challenging if not impossible.
 There are many translators of Chinese to English.
 But they become rare if they need to be fluent in economics literacy, and rarer
-if taking into consideration that this project is risky in profitability becase
-his theory challenges the mainstream economics.
-Thanks to AI, the translator's productity is greatly enhanced.
+if we consider that this project is hardly profitable becase his theory
+challenges mainstream economics.
+AI made it real by enhancing the productivity of the translator, whose capacity
+itself would be in short.
 
 Meanwhile, the problem that AI is making students lazier grows more apparent.
-There have been reported many instances that university students only perform
-copy paste without checking the result, let alone thinking independently.
-Recently, ChatGPT's CEO Altman concess that he was mistaken in predicting the
-change in education industry.
-When the new tool changes people's behavior dramatically while the education
-system remain stale, I would not be surprised to hear more of such stories.
+There have been many reported instances that university students simply copy and
+paste without even checking the result, let alone thinking independently.
+Sam Altman said, "If we continue to teach students as if we were in a pre-AGI
+world, it's gonna lead to an atrophy of critical thinking." When the new tool
+changes people's behavior dramatically while the education system remains stale,
+I would not be surprised to hear more of such stories.
 
-For people want to write exceptionally, AI can be their best assistant.
-Empowered by AI doesn't mean easy job to them.
-Instead, it could be a more strenous process but far better outcome.
-On the contrary, for people who just aim to finish the task with no concern of
-quality, with or without AI makes not much difference in terms of their output.
-Using AI for writing can only make their capacity in writing and thinking more
-lacking.
+For people who want to write exceptionally, AI can be their best assistant.
+Empowered by AI doesn't mean an easy job for them.
+Instead, it could still be a strenuous process but produce a far better outcome.
+On the contrary, for people who just aim to finish the task with no concern for
+quality, Using AI or not makes little difference in terms of their output.
+In this case, using AI only make it worse off in their capacity of writing and
+thinking.
 
-What do you want to achieve by using AI?
-This is the key question to ask for individuals.
-And for schools and universities, what changes are imminent to motivate students
-to use AI for a better outcome not just a finish of homework.
+By using AI, are you aiming to excel, or just phoning it in?
+This is the key question individuals should ask themselves.
+And for education systems, the imminent changes required are to motivate
+students to focus on the outcome, not just get homeworks out of the way.
