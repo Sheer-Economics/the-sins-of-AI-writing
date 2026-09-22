@@ -20,8 +20,8 @@ The author lists three main reasons:
 
 While agreeing with the reasons, I would still argue that they do not logically
 lead to a plea against AI.
-A possible conclusion is that AI is still premature or that the use of AI is
-primitive.
+A possible conclusion of that article is that caution applies because AI is still
+premature or that the use of AI is primitive.
 This is an increasingly contentious issue as AI permeates our lives, so I want
 to analyze it from an economic perspective.
 
@@ -34,7 +34,7 @@ For now, I see AI as a tool, a more powerful tool than any other kind in human
 history.
 Once we replacing the buzzword "AI" with "tool," it becomes more apparent that
 the culprit is never the tool but the human who uses it.
-The history of technology is full of tool inventions meeting doubt---almost
+The history of technology is full of tool inventions meeting doubt&mdash;almost
 every time a new tool emerged, people cast suspicion on it.
 
 In 1966, math teachers
@@ -107,21 +107,24 @@ uniqueness.
 Some who replace independent thinking with AI will fall short in writing
 capacity.
 
-AI has made previously impossible mission real.
-A good illustration is the translation of Professor Zuoshi Xie's macroeconomics
-book.
-Professor Xie is an independant Chinese economist.
-He has developed a sound framework unifying microeconomics and macroeconomics.
-Although his insights have been well received in the Chinese market, translating
-them into English had been very challenging if not impossible.
-There are many translators of Chinese to English.
-But they become rare if they need to be fluent in economics literacy, and rarer
-if we consider that this project is hardly profitable becase his theory
-challenges mainstream economics.
-AI made it real by enhancing the productivity of the translator, whose capacity
-itself would be in short.
+AI has made previously impossible missions economically feasible.
+Suppose a Chinese author wants to translate his several niche, non-fiction books
+into English.
+The economic bridge for such specialized translation wasn't ready before AI's
+era.
+He would need a translator who is not only fluent in both languages but also an
+expert in that specific, narrow field—which makes the cost impossible to justify
+for a small audience.
+However, AI makes it affordable by enhancing the English writing of the
+specialist or improving a Chinese-English translator's literacy in this niche
+field.
+The productivity improvement has become so substantial that a new role has been
+created, _the human Polisher_.
+This human role is to polish the rigid AI translation and alter the text to
+inject human rhythm or cultural elements.
 
-Meanwhile, the problem that AI is making students lazier grows more apparent.
+Meanwhile, the problem of AI is making students more dependent grows more
+evident.
 There have been many reported instances that university students simply copy and
 paste without even checking the result, let alone thinking independently.
 Sam Altman said, "If we continue to teach students as if we were in a pre-AGI
