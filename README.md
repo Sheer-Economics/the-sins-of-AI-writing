@@ -4,6 +4,9 @@ This little project is meant to argue for the use of AI, and to demonstrate the
 use of AI in the process of forming the argument itself.
 It is best to inspect the commit differences with the `--word-diff` flag.
 
+Essay: [The Sins of AI Writing](20260920-the_sins_of_AI_writing.md)
+Prompts: [Claude Code Prompt](.claude/essay.md)
+
 ## Draft
 
 The draft was written quickly, after thinking about the issue for one evening.
